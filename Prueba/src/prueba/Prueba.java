@@ -9,6 +9,7 @@ public class Prueba {
         int a = 0;
         while (a<100){
       System.out.println("Hola mundo");
+      a=a+1;
     }
     }
 }
